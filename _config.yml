@@ -1,0 +1,11 @@
+title: LOVE20BSC 协议
+description: BSC 版协议对外公开文档
+theme: jekyll-theme-hacker
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

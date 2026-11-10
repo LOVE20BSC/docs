@@ -1,4 +1,4 @@
-# LOVE20BSC Docs
+# LOVE20BSC 协议
 
 LOVE20BSC 协议（BSC 版）的对外公开文档。文档站入口：[love20bsc.github.io/docs](https://love20bsc.github.io/docs/)。
 
