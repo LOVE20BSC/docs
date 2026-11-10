@@ -1,6 +1,6 @@
 # LOVE20BSC Docs
 
-LOVE20BSC 协议（BSC 版）的对外公开文档。
+LOVE20BSC 协议（BSC 版）的对外公开文档。文档站入口：[love20bsc.github.io/docs](https://love20bsc.github.io/docs/)。
 
 本仓库只收录可对外发布的定稿内容，面向集成方、审计方、运维方与协议使用者。
 
